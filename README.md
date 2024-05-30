@@ -1,5 +1,8 @@
 # project-4-group-3
 
+### Dataset: 
+[Secondary Mushroom](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
+
 ### Collaborators:
 
 * [Ashley Anderson](https://github.com/AshleyKAnderson) <br>
