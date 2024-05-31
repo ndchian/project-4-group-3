@@ -1,18 +1,22 @@
 # Identification of various mushroom species as edible, definitely poisonous, or of unknown edibility
 
-## Project 4 - University of Minnesota- Data Visualization and Analytics Bootcamp
+## Project 4 (Group: 3) - University of Minnesota- Data Visualization and Analytics Bootcamp
 
-### Contributors (Group: 3)
+### Collaborators:
     Ashley Anderson 
     Kolton Ascheman
     Nora Chian
     Atul Shiwakoti
+
+## Project Overview:
+    
+    
   
 
 ### Dataset: 
 [Secondary Mushroom](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
 
-### Collaborators:
+### 
 
 * [Ashley Anderson](https://github.com/AshleyKAnderson) <br>
 * [Kolton Ascheman](https://github.com/K01t0N) <br>
