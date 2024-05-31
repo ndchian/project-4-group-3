@@ -9,6 +9,7 @@
     Atul Shiwakoti
 
 ## Project Overview:
+    Predicting if a set of mushrooms is edible or not corresponds to the task of classifying them into two groups—edible or poisonous. To support this binary task, the largest and most comprehensive attribute-based data available is collected. Thanks to natural language processing, the primary data are based on a text-book for mushroom identification and contain 173 species from 23 families.
     
     
   
