@@ -1,4 +1,4 @@
-# Identification of various mushroom species as edible, definitely poisonous, or of unknown edibility
+# Identification of various mushroom species as edible, definitely poisonous, or of unknown edibility(classified as poisonous)
 
 ## Project 4 (Group: 3) - University of Minnesota- Data Visualization and Analytics Bootcamp
 
