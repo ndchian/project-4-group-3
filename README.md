@@ -9,11 +9,8 @@
     Atul Shiwakoti
 
 ## Project Overview:
- Predicting if a set of mushrooms is edible or not corresponds to the task of classifying them into two groups—edible or poisonous. To support this binary task, the largest and most comprehensive attribute-based data available is collected. Thanks to natural language processing, the primary data are based on a textbook for mushroom identification and contain 173 species from 23 families.
+Determination of various mushroom species as edible or not (also, classified as poisonous). To support this binary task, the largest and most comprehensive attribute-based data available is collected. Thanks to natural language processing, the primary data are based on a textbook for mushroom identification and contain 173 species from 23 families. All the sources for data are mentioned in given section below.
     
-    
-  
-
 ### Dataset: 
 [Secondary Mushroom](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
 
@@ -23,6 +20,7 @@ The dataset is in the .csv format and contains more than 22,000 rows and 16 colu
 ### Sources and References
    1)  Dataset: [Secondary Mushroom](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
    2)  Introductory Paper: [Creation and simulation of dataset](https://www.semanticscholar.org/paper/Mushroom-data-creation%2C-curation%2C-and-simulation-to-Wagner-Heider/336be248b6f1c5d77c3c93e89f2e19e7344b0250)
+   3)  
 
 * [Ashley Anderson](https://github.com/AshleyKAnderson) <br>
 * [Kolton Ascheman](https://github.com/K01t0N) <br>
