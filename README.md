@@ -19,7 +19,8 @@ The dataset is in the .csv format and contains more than 22,000 rows and 16 colu
 ### Sources and References
    1)  Dataset: [Secondary Mushroom](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
    2)  Introductory Paper: [Creation and simulation of dataset](https://www.semanticscholar.org/paper/Mushroom-data-creation%2C-curation%2C-and-simulation-to-Wagner-Heider/336be248b6f1c5d77c3c93e89f2e19e7344b0250)
-   3)  
+   3)  [Google Developer Machine Learning Guide](https://developers.google.com/machine-learning/decision-forests/practice)
+   4)  [YDF Documentation](https://ydf.readthedocs.io/en/stable/)
 
 ## Data Preprocessing
 
