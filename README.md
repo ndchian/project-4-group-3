@@ -48,3 +48,7 @@ The logistic regression model with pca data, while maintaining a recall for pois
 The worst performing models were the ones trained on the regular, unoptimized dataset. Trained on this data, the random forest and logistic regression algorithms had accuracy scores of 50% and 55%, respectively. Based on these performance metrics, data optimization was a huge help in achieving the desired results.
 
 The confusion matrices and accuracy results can be found in either our slide deck or in the 'Results' folder of this repository as can the YDF gradient boosted model tree. If you are running our notebook, best results will be achieved in using Google Colab. 
+
+## Presentation Tools
+
+Please view our [slide deck](https://docs.google.com/presentation/d/1fP5_myl5a4beyzoj1ECBHwvMkO1uI4Y_84e1jNgDBOE/edit?usp=sharing) here. 
