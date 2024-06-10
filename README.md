@@ -46,3 +46,5 @@ The YDF gradient boosted trees model did come in with 100% accuracy in identifyi
 The logistic regression model with pca data, while maintaining a recall for poisonous outcomes at 81%, still struggles to keep an overall accuracy of 72%, compared to the random forest model's 99%. This indicates that the pca is complex enough that it requires an algorithm more nuanced than a simple regression.
 
 The worst performing models were the ones trained on the regular, unoptimized dataset. Trained on this data, the random forest and logistic regression algorithms had accuracy scores of 50% and 55%, respectively. Based on these performance metrics, data optimization was a huge help in achieving the desired results.
+
+The confusion matrices and accuracy results can be found in either our slide deck or in the 'Results' folder of this repository as can the YDF gradient boosted model tree. If you are running our notebook, best results will be achieved in using Google Colab. 
