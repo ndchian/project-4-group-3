@@ -29,7 +29,9 @@ Five columns contained a significant amount of missing values (more than 60% of 
 
 ### Separating, scaling, and preprocessing data for models
 
-X is assigned from dropping the target variable (class) from the rest of the data. It is then split between categorical and numeric columns. `StandardScalar` scales the numerical data, so that equal importance is placed on the features. `pd.get_dummies` is used on the categorical variables to convert them into a format the the algorithm will understand. The two parts were then concatenated back into a single `X_clean` variable.
+For both the random forest classifier and logistic regression models, X is assigned from dropping the target variable (class) from the rest of the data. It is then split between categorical and numeric columns. `StandardScalar` scales the numerical data, so that equal importance is placed on the features. `pd.get_dummies` is used on the categorical variables to convert them into a format the the algorithm will understand. The two parts were then concatenated back into a single `X_clean` variable.
+
+For the gradient boosted trees model, the 'class' column was set as the label and the cleaned data set was split 30/70 into the testing and training datasets respectively. 
 
 ### Creating a PCA version of the data
 
