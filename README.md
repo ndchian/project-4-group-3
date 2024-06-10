@@ -37,7 +37,9 @@ Because the dataset contains more than 80 columns after preprocessing, a second 
 
 ## Results and Analysis
 
-By far, the random forest model train on PCA data dramatically outperformed the other models. In a case use like this that is safety-related, it it crucial to obtain a near-perfect accuracy. Likewise, another major component is eliminating as much false negatives as possible. The precision and recall values for both outcomes are 98-99%.
+The random forest model train on PCA data dramatically outperformed the the logistic regression model with either the original dataset or PCA as well as the random forest model with original data. In a case use like this that is safety-related, it it crucial to obtain a near-perfect accuracy. Likewise, another major component is eliminating as much false negatives as possible. The precision and recall values for both outcomes are 98-99%.
+
+The YDF gradient boosted trees model did come in with 100% accuracy in identifying the edible and poisonous mushrooms. However, this model type does have a drawback of being more likely to overfit the data. For the best quality results, both the gradient boosted tree and random forest results should be taken into account.
 
 The logistic regression model with pca data, while maintaining a recall for poisonous outcomes at 81%, still struggles to keep an overall accuracy of 72%, compared to the random forest model's 99%. This indicates that the pca is complex enough that it requires an algorithm more nuanced than a simple regression.
 
