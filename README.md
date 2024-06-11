@@ -14,7 +14,7 @@ Determination of various mushroom species as edible or not (also, classified as 
 ### Dataset: 
 [Secondary Mushroom](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
 
-The dataset is in the .csv format and contains more than 22,000 rows and 16 columns. It includes 61069 hypothetical mushrooms with caps based on 173 species (i.e. 353 mushrooms per species). Each mushroom is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended (the latter class was combined with the poisonous class).
+The dataset is in the .csv format and contains more than 22,000 rows and 21 columns. It includes 61069 hypothetical mushrooms with caps based on 173 species (i.e. 353 mushrooms per species). Each mushroom is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended (the latter class was combined with the poisonous class).
 
 ### Sources and References
    1)  Dataset: [Secondary Mushroom](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
